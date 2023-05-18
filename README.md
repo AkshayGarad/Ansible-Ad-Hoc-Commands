@@ -80,6 +80,3 @@ To get started with Ansible Ad Hoc commands, follow these steps:
 
 Contributions to this repository are welcome! If you have any improvements or additional examples to share, feel free to open a pull request. Please ensure that your contributions adhere to the project's coding standards and include clear documentation.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this codebase as per the terms of the license.
